@@ -57,7 +57,7 @@ fun Notes() {
 @Composable
 fun NoteList() {
     LazyColumn {
-
+TODO("Продолжение следует...")
     }
 }
 
